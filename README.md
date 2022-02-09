@@ -1,1 +1,1 @@
-![Cualquier texto](Diagrama.png)
+![Diagrama](Diagrama.png)
